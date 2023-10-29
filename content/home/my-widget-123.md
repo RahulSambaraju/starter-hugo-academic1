@@ -2,7 +2,7 @@
 widget: HTTPS://WOWCHEMY.COM/DOCS/PAGE-BUILDER/
 widget_id: my-widget-123
 headless: true
-weight: 10
+weight: 20
 title: Sambaraju's research site
 active: true
 design:
