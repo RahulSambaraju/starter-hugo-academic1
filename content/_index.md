@@ -11,9 +11,9 @@ type: landing
 sections:
   - block: markdown
     content:
-      title: My title
-      subtitle: My subtitle
-      text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
+      title: Sambaraju's Research Space
+      subtitle: Studying social exclusion in discourse
+      text: 
     design:
       # See Page Builder docs for all section customization options.
       # Choose how many columns the section has. Valid values: '1' or '2'.
@@ -33,15 +33,15 @@ sections:
     content:
       title: Skills
       items:
-        - name: R
+        - name: Discursive Psychology
           description: 90%
           icon: r-project
           icon_pack: fab
-        - name: Statistics
+        - name: Social Psychology
           description: 100%
           icon: chart-line
           icon_pack: fas
-        - name: Photography
+        - name: Race and racism
           description: 10%
           icon: camera-retro
           icon_pack: fas
