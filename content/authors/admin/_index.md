@@ -4,10 +4,7 @@ role: Qualitative social scientist
 avatar_filename: rs_photo.jpg
 bio: My research interests include social exclusion, race and racism, discursive
   psychology, qualitative methods
-interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+
 social:
   - icon: envelope
     icon_pack: far
